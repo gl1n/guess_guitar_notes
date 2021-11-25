@@ -1,6 +1,7 @@
+#!/usr/bin/python3
+
 import random
 import sys
-
 
 key = {
     0: ['A'],
