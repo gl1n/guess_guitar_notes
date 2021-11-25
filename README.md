@@ -1,2 +1,2 @@
-# guess_guitar_notes
-a game guessing guitar notes writing in python
+# Guess Guitar Notes
+A game guessing guitar notes writing in python.
