@@ -33,7 +33,8 @@ def get_notename(string, fret):
 
 def main():
     string = int(input("今天要练哪根弦?(输入0则弦数随机):"))
-
+    
+    random_flag = False
     if string == 0:
         random_flag = True
     while True:
