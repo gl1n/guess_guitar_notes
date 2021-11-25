@@ -49,7 +49,7 @@ def main():
             if len(ans) == 1:
                 print("额~ 应该是{}".format(ans[0]))
             else:
-                print("额应该是{} 或 {}".format(ans[0], ans[1]))
+                print("额~ 应该是{} 或 {}".format(ans[0], ans[1]))
 
 
 if __name__ == "__main__":
